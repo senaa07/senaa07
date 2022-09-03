@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sena Abhishek
 =====================================================================================================================================
 
-Full Stack Developer <br/>UI developer<span style="color: green"> Some green text </span>
+Full Stack Developer <br/>UI developer
 ---------------------------------
 
 I'am learning webDeveloping for past 2 years. I'am looking forward to work on projects.
