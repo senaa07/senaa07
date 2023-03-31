@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 Full Stack Developer <br/>UI developer
 ---------------------------------
 
-I'am learning webDeveloping for past 2 years. I'am looking forward to work on projects.
+I'm learning webDeveloping for past 2 years. I'am looking forward to work on projects.
 
 <a href="https://www.github.com/X-sena-X" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/X-sena-X?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
