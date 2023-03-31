@@ -70,7 +70,7 @@ src="https://img.shields.io/github/followers/X-sena-X?logo=github&style=for-the-
 - 📫 How to reach me **creatorsenaabhishek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://www.github.com/X-sena-X" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/_.sena._73/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/senaabhishek/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -78,7 +78,9 @@ src="https://img.shields.io/github/followers/X-sena-X?logo=github&style=for-the-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x-sena-x&show_icons=true&locale=en&layout=compact" alt="x-sena-x" /></p>
 
-<p align="left"> <a href="https://www.github.com/X-sena-X" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sena" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sena" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/sena" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x-sena-x&show_icons=true&locale=en" alt="x-sena-x" /></p>
+
+
+
 
