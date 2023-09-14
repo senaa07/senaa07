@@ -59,7 +59,7 @@ src="https://img.shields.io/github/followers/X-sena-X?logo=github&style=for-the-
 <a href="https://github.com/X-sena-X" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-sena-X&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
 
-![Header](./Banner1.png)
+![Header](./X-sena-X_header.png)
 
 
 <h1 align="center">Hi 👋, I'm Sena abhishek</h1>
