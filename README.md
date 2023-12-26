@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <br>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sena Abhishek
           
 =====================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70DAB&random=false&width=435&lines=Digital+Craftsmen;DL+engineer+and+Web+developer)](https://git.io/typing-svg)
+
 Full Stack Developer <br/>UI developer
 ---------------------------------
 
@@ -64,7 +64,7 @@ src="https://img.shields.io/github/followers/X-sena-X?logo=github&style=for-the-
 
 <h1 align="center">Hi 👋, I'm Sena abhishek</h1>
 <h3 align="center">An enthusiastic ML Engineer and a passionate web developer</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70DAB&random=false&width=435&lines=Digital+Craftsmen;DL+engineer+and+Web+developer)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **Next Js and CNN**
