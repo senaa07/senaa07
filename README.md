@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 ![Header](./X-sena-X_header.png)
 
 <h1 align="center">Hi 👋, I'm Sena abhishek</h1>
-<h1 align="center">🔥 Full-stack sorcerer by day, AI tamer by night 🤖 </h1>
+<h1 align="center">🔥 Doctor Strange by day, AI tamer by night 🤖 </h1>
 
 <!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70DAB&random=false&width=435&lines=Digital+Craftsmen;Enthusiastic+ML+Engineer;Passionate+Web+Developer"/>
