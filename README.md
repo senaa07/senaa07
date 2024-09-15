@@ -90,4 +90,212 @@ src="https://img.shields.io/github/followers/X-sena-X?logo=github&style=for-the-
 
 -->
 
+<!---
+X-sena-X/X-sena-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+--->
+
+![Header](./X-sena-X_header.png)
+
+<h1 align="center">Hi 👋, I'm Sena abhishek</h1>
+<h1 align="center">🔥 Full-stack sorcerer by day, AI tamer by night 🤖 </h1>
+
+<!--
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70DAB&random=false&width=435&lines=Digital+Craftsmen;Enthusiastic+ML+Engineer;Passionate+Web+Developer"/>
+-->
+
+<h1>🚀 About me</h1>
+<p style="color: rgb(241, 149, 15);">An aspiring CS undergrad looking to turn world insideout.<br> Turning caffeine into code and dreams into data. <br>
+If you can't find me, I'm probably lost in a neural network or debugging in another dimension.<br>
+<span style="color: rgb(88, 53, 4)">Secret weapon:</span> Turning "It's not a bug" into "It's an undocumented feature"<br>
+</p>
+
+<!-- <h3 align='right'>Buy me a coffee <a href="https://www.buymeacoffee.com/sena007"</h3> -->
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=senaa07&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senaa07&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=senaa07&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=senaa07&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<h1 align="center"> BLOCKBUSTERS </h1>
+<p style="color:red"> Warning: My repos may contain traces of world-changing algorithms  </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/senaa07/PonderPageAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=senaa07&repo=PonderPageAI&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/senaa07/ShopElites-EcommerceOnlineStore">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=senaa07&repo=ShopElites-EcommerceOnlineStore&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/senaa07/ai_canvas">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=senaa07&repo=ai_canvas&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/senaa07/Translate-sphere">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=senaa07&repo=Translate-sphere&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div>
+<h1 align="center">💼 TECH STACK</h1>
+<div style="" align="center">
+    <h3 align="center">Web Development</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr align="center">
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.typescriptlang.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50"/><br>FastAPI
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">ORM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50"/><br>FastAPI
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+    <h3 align="center">Cloud Computing & DevOps</h3>
+    <div align="center">
+        <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+            <thead>
+                <tr>
+                    <th colspan="2" align="center" style="color: white;">
+                        Containerization & Orchestration
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td align="center" style="border: none;">
+                        <img
+                            src="https://techstack-generator.vercel.app/docker-icon.svg"
+                            alt="Docker"
+                            width="50"
+                            height="50"
+                        />
+                        <br></br>Docker
+                    </td>
+                    <td align="center" style="border: none;">
+                        <img
+                            src="https://techstack-generator.vercel.app/kubernetes-icon.svg"
+                            alt="Kubernetes"
+                            width="50"
+                            height="50"
+                        />
+                        <br></br>Kubernetes
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+</div>
+
+
 
