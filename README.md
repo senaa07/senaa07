@@ -253,7 +253,7 @@ If you can't find me, I'm probably lost in a neural network or debugging in anot
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50"/><br>FastAPI
+        <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50"/><br>Prisma
       </td>
     </tr>
   </tbody>
