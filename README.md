@@ -106,7 +106,7 @@ You can click the Preview link to take a look at your changes.
 -->
 
 <h1>🚀 About me</h1>
-<p style="color: rgb(241, 149, 15);">👨‍💻 An aspiring CS undergrad looking to turn world insideout.<br> Turning caffeine into code and dreams into data. <br>
+<p style="color: rgb(241, 149, 15);">👨‍💻 An aspiring CS undergrad looking to turn world insideout.<br> ⚡️ Turning caffeine into code and dreams into data. <br>
 💬 If you can't find me, I'm probably lost in a neural network or debugging in another dimension.<br>
 <span style="color: rgb(88, 53, 4)">⛑️ Secret weapon:</span> Turning "It's not a bug" into "It's an undocumented feature"<br>
 </p>
