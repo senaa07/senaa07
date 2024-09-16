@@ -219,7 +219,7 @@ If you can't find me, I'm probably lost in a neural network or debugging in anot
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
+      <th colspan="5" align="center" style="color: white;">Backend</th>
     </tr>
   </thead>
   <tbody>
